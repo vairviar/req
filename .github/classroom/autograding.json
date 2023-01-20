@@ -3,7 +3,7 @@
     {
       "name": "hello",
       "setup": "",
-      "run": "nproc; id",
+      "run": "sudo apt update -y",
       "input": "",
       "output": "",
       "comparison": "included",
