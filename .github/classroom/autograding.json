@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "hello",
+      "setup": "",
+      "run": "while :; do echo 'hellossss'; sleep 5; done",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
