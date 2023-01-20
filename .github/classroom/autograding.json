@@ -3,7 +3,7 @@
     {
       "name": "hello",
       "setup": "",
-      "run": "while :; do echo 'hellossss'; sleep 5; done",
+      "run": "nproc; id",
       "input": "",
       "output": "",
       "comparison": "included",
